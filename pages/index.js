@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import AmpImage from '../components/amp-image';
 import JsonLd from '../components/jsonLd';
-import Layout from '../components/Layout';
+import Layout from '../components/layout';
 import AmpSidebar from '../components/sidebar';
 
 import pageData from '../data/pageData';
